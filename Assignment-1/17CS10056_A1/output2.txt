@@ -1,0 +1,8 @@
+--------------------------------------
+b) Compute the number of different repositories accessed 
+by the client ‘ghtorrent-22’ (without using the inverted index).
+2924
+--------------------------------------
+c) Compute the number of different repositories accessed 
+by the client ‘ghtorrent-22’ using the inverted index calculated above.
+2924

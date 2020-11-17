@@ -1,0 +1,11 @@
+--------------------------------------
+Read in the file to an RDD and name it as ‘assignment_2’ and 
+count the number of records.
+1435
+--------------------------------------
+How many records in the log file (used in the last 2 questions) 
+refer to entries in the 'assignment_2' file ?
+87930
+--------------------------------------
+Which of the ‘assignment_2’ repositories has the most failed API calls?
+(hello-world,740)
